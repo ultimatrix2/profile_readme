@@ -65,12 +65,22 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ultimatrix2&theme=dark" alt="ultimatrix2" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;**GitHub Profile Trophies**
+</p>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ultimatrix2&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
+</p>
+<br><br><br>
 
----
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+  <a href="https://www.linkedin.com/in/neelendra-pratap/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
  
   </a>
